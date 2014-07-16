@@ -13,7 +13,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "superagent": "~0.17.0"
+    "superagent": "~0.18.0"
   },
   "devDependencies": {
     "mocha": "*",
